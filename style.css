@@ -11,6 +11,7 @@ html, body{
     --accent-color: #DA0037;
     --light-gray: #212121;
     --corners: 8px;
+    height:100%;
 
 
     font-family: 'Lato', sans-serif;
